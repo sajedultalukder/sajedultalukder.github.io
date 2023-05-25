@@ -430,7 +430,7 @@ blockquote {
 }
 
 a {
-	color: #980909;
+	color: #144B1E;
 	text-decoration: none
 }
 
@@ -601,7 +601,7 @@ h1 {
 
 .h2,
 h2 {
-	font-size: 2rem
+	font-size: 1.9rem
 }
 
 .h3,
@@ -6253,7 +6253,7 @@ button.close {
 }
 
 .bg-inverse {
-	background-color: #750f0f
+	background-color: #144B39
 }
 
 .bg-faded {
